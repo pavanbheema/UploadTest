@@ -13,6 +13,7 @@ namespace Globomantics
     {
         public static void Main(string[] args)
         {
+           var x=2;
             CreateHostBuilder(args).Build().Run();
         }
 
